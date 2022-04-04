@@ -1,5 +1,5 @@
 # Book-Recommendation-System
-Development of a user-based machine learning to recommend books that user still don't read but users with similar caracteres already read and liked them.
+Development of an user-based machine learning system to recommend books which users still don't read but other users with similar preferences already read and liked them.
 
 ## Technologies
 - Google Colaboratoy
