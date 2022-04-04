@@ -2,7 +2,7 @@
 Development of an user-based machine learning system to recommend books which users still don't read but other users with similar preferences already read and liked them.
 
 ## Technologies
-- Google Colaboratoy
+- Google Colaboratory
 - Python
 - Scikit Learning
 - Numpy
