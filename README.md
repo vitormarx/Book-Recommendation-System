@@ -19,4 +19,4 @@ download the <a href='http://www2.informatik.uni-freiburg.de/~cziegler/BX/'>data
 ## Results
 Given an user ID the system returns the recommended books based on users similarity as shown in the figure bellow:
 
-<img src='images/output.PNG'>
+<img src='images/output_system.PNG'>
